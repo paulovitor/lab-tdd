@@ -30,7 +30,7 @@ public class FreteTest {
 	}
 
 	@Test(expected = UFException.class)
-	public void deveValidaUFVazia() throws UFException {
+	public void deveValidaUFNula() throws UFException {
 		assertEquals("UF nula", new Frete().prazoDestino("SP", null));
 	}
 
