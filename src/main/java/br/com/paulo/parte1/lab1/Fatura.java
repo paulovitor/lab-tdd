@@ -1,4 +1,4 @@
-package br.com.paulo.lab1;
+package br.com.paulo.parte1.lab1;
 
 import org.joda.time.DateTime;
 import org.joda.time.Days;

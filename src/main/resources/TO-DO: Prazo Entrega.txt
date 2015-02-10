@@ -1,4 +1,4 @@
-TO-DO: Prazo Entrega (Lab2)
+TO-DO: Prazo Entrega (Parte 1 - Lab 2)
 
 - valida estados brasileiros
 - valida UF

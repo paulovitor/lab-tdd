@@ -1,0 +1,12 @@
+O objetivo é verificar se o e-mail que foi passado por um usuário é válido ou não. 
+A validação neste caso está limitada à formatação.
+
+TO-DO: Email (Parte 2 - Lab 1)
+
+- Validar se email é correto:
+	> contenha @ 
+	> .(dominio)
+- Validar se email é inválido: 
+	> não pode ter espaço
+	> não pode ter caracteres especiais
+	

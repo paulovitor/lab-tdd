@@ -1,8 +1,10 @@
-package br.com.paulo.lab1;
+package br.com.paulo.parte1.lab1;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import br.com.paulo.parte1.lab1.Fatura;
 
 public class FaturaTest {
 

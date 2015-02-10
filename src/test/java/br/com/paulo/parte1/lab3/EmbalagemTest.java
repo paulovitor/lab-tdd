@@ -1,4 +1,4 @@
-package br.com.paulo.lab3;
+package br.com.paulo.parte1.lab3;
 
 import static org.junit.Assert.assertEquals;
 
@@ -6,7 +6,8 @@ import java.math.BigDecimal;
 
 import org.junit.Test;
 
-import br.com.paulo.lab2.UFException;
+import br.com.paulo.parte1.lab2.UFException;
+import br.com.paulo.parte1.lab3.Embalagem;
 
 public class EmbalagemTest {
 

@@ -1,0 +1,16 @@
+Partindo de uma renda mensal, definir o limite de empréstimo bancário para um determinado cliente. 
+Os clientes que ganham de 1 até 2 salários mínimos terão como limite de empréstimo o dobro do valor da renda informada.
+
+Quando o cliente tenta pegar um empréstimo maior do que o limite disponível, este é negado.
+
+Do contrário, o valor é concedido e o saldo disponível para empréstimo é atualizado. 
+Caso o usuário faça amortização ou quitação da dívida, o saldo deve ser atualizado.
+
+TO-DO: Emprestimo Bancário (Parte 2 - Lab 2)
+
+- Validar limite de empréstimo para cliente de acordo com salário
+	> Salário menor que 1 (SM) o limite será o próprio salário
+	> Salário entre 1 e 2 (SM) o limite será o dobro do salário (L = SM x 2)
+	> Salário maior que 2 (SM) o limite será ?
+- Validar limite de empréstimo de acordo com salário e valor disponível
+	> Valor solicitado maior que limite disponível

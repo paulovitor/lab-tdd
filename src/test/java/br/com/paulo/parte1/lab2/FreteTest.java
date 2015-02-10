@@ -1,8 +1,11 @@
-package br.com.paulo.lab2;
+package br.com.paulo.parte1.lab2;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import br.com.paulo.parte1.lab2.Frete;
+import br.com.paulo.parte1.lab2.UFException;
 
 public class FreteTest {
 

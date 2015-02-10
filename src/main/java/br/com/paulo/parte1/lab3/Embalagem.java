@@ -1,9 +1,9 @@
-package br.com.paulo.lab3;
+package br.com.paulo.parte1.lab3;
 
 import java.math.BigDecimal;
 
-import br.com.paulo.lab2.Frete;
-import br.com.paulo.lab2.UFException;
+import br.com.paulo.parte1.lab2.Frete;
+import br.com.paulo.parte1.lab2.UFException;
 
 public class Embalagem {
 

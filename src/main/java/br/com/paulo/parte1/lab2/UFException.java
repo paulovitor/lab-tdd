@@ -1,4 +1,4 @@
-package br.com.paulo.lab2;
+package br.com.paulo.parte1.lab2;
 
 public class UFException extends Exception {
 
