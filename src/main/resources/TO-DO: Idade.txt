@@ -1,0 +1,6 @@
+O objetivo é calcular e descobrir a idade do usuário a partir do ano de nascimento informado. 
+
+TO-DO: Email (Parte 2 - Lab 3)
+
+> Calcular idade de uma pessoa que não fez aniversário no ano corrente
+> Calcular idade de uma pessoa que já fez aniversário no ano corrente
