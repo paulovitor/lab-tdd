@@ -1,0 +1,10 @@
+O objetivo desta aplicação é saber o consumo elétrico em R$ de um determinado aparelho com base na potência. 
+Sabemos que o valor kW/h varia de acordo com cada cidade/estado. Sendo assim, deve-se informar quanto custa cada kW/h. 
+O usuário pode informar um ou mais produtos para serem calculados de uma só vez, ou seja, ele traz uma lista de produtos que gostaria de saber o custo que ele terá por hora quando o produto estiverem ligados.
+
+TO-DO: Email (Parte 2 - Lab 4)
+
+O cálculo para saber quantos kWh um produto consome ficando X horas ligado é o seguinte: 
+	potencia_watts / 1000 x horas_consumo = kWh
+	
+> Calcula valor de um chuveiro
