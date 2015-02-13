@@ -1,0 +1,6 @@
+O usuário vai digitar um valor monetário (R$) e a aplicação vai converter por extenso na moeda real.
+
+TO-DO: Extenso (Parte 2 - Lab 4)
+
+> Converter valor em reais
+> Converter valor em dólares
