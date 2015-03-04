@@ -1,4 +1,4 @@
-package br.com.paulo.pate2.lab1;
+package br.com.paulo.parte2.lab1;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

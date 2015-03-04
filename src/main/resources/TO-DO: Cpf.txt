@@ -1,0 +1,10 @@
+Desenvolva uma aplicação que valide o CPF. 
+Neste caso, o usuário vai digitar incluindo os separadores. 
+Outra atividade é criar uma exceção específica para quando o CPF for inválido e lançarmos uma exceção CPFFormatException.
+
+TO-DO: Cpf (Parte 2 - Lab 6)
+	> validar cpf válido
+	> validar cpf:
+		> com menos de onze digitos
+		> com caracteres inválidos
+		> com digito verificador inválido

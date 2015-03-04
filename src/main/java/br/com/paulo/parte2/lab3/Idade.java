@@ -1,4 +1,4 @@
-package br.com.paulo.pate2.lab3;
+package br.com.paulo.parte2.lab3;
 
 import org.joda.time.DateTime;
 import org.joda.time.Years;

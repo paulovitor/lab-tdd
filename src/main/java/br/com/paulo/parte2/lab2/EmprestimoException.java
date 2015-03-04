@@ -1,4 +1,4 @@
-package br.com.paulo.pate2.lab2;
+package br.com.paulo.parte2.lab2;
 
 public class EmprestimoException extends Exception {
 

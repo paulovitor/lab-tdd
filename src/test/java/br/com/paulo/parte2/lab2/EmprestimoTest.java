@@ -1,10 +1,13 @@
-package br.com.paulo.pate2.lab2;
+package br.com.paulo.parte2.lab2;
 
 import static org.junit.Assert.assertEquals;
 
 import java.math.BigDecimal;
 
 import org.junit.Test;
+
+import br.com.paulo.parte2.lab2.Emprestimo;
+import br.com.paulo.parte2.lab2.EmprestimoException;
 
 public class EmprestimoTest {
 

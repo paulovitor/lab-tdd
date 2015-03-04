@@ -1,4 +1,4 @@
-package br.com.paulo.pate2.lab3;
+package br.com.paulo.parte2.lab3;
 
 import static org.junit.Assert.assertEquals;
 
@@ -6,6 +6,8 @@ import org.joda.time.DateTime;
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
 import org.junit.Test;
+
+import br.com.paulo.parte2.lab3.Idade;
 
 public class IdadeTest {
 

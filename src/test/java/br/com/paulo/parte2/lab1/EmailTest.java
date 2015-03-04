@@ -1,9 +1,11 @@
-package br.com.paulo.pate2.lab1;
+package br.com.paulo.parte2.lab1;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
+
+import br.com.paulo.parte2.lab1.Email;
 
 public class EmailTest {
 
