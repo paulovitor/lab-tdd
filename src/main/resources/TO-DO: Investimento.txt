@@ -1,0 +1,5 @@
+TO-DO: Investimento (Parte 2 - Lab 7)
+
+Este Lab tem como objetivo criar uma aplicação capaz de informar ao usuário o valor do resgate, 
+partindo de um capital inicial sobre a correção do percentual dos juros com base no tempo investido em meses.
+
